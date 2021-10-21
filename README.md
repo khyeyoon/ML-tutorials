@@ -4,4 +4,6 @@
 
 ## References
 
+부스트코스, '인공지능', https://www.boostcourse.org/opencourse.
+
 권철민, 『파이썬 머신러닝 완벽 가이드』, 위키북스(2021).
